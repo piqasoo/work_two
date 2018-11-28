@@ -1,0 +1,21 @@
+header {
+	background-color: #cddc39;
+}
+nav {
+	background-color: #ffeb3b;
+}
+main {
+	background-color: #e9e8e8;
+}
+footer {
+	background-color: brown;
+}
+
+header, nav, section, footer {
+	padding: 50px;
+}
+
+article {
+	background-color: #ffc107;
+    padding: 30px;
+}
